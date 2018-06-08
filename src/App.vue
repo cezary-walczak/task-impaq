@@ -2,6 +2,7 @@
   .app
     table
       tr
+        th
         th id
         th name
         th surname
@@ -43,7 +44,7 @@ export default {
         mobile: "mobile number",
         address: "address"
       },
-      showForm: false
+      showForm: false,
     }
   },
   methods: {
@@ -99,7 +100,7 @@ export default {
       tr
         th
         td
-          padding 0 30px
+          padding 0 2vw
           text-align left
 
     form

@@ -46,7 +46,7 @@
       "surname": "surname5",
       "dateOfBirth": "08-2-1986",
       "mobile": "634523125",
-      "address": "\tWarsaw, Woloska 22"
+      "address": "Warsaw, Woloska 22"
     },
     {
       "id": "6",
@@ -54,7 +54,7 @@
       "surname": "surname6",
       "dateOfBirth": "03-3-1983",
       "mobile": "634523125",
-      "address": "\tWarsaw, Woloska 22"
+      "address": "Warsaw, Woloska 22"
     }
   ]
 }
